@@ -1,0 +1,9 @@
+.btn-edit{
+	cursor: pointer;
+	color: #ff9980;
+	transition: .2s all ease-in-out;
+}
+.btn-edit:hover{
+	transition: .2s all ease-in-out;
+	color: #ff5e36;
+}
